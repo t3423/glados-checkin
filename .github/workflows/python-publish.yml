@@ -1,4 +1,4 @@
-name: glados-checkin
+name: glados-checkin 
 
 on:
   push:
